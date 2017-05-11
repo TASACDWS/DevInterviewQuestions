@@ -1,0 +1,7 @@
+Interview Questions
+
+1. Create a method to count a repeated character in a string. 
+   Create any possible unit test 
+   Do not use Builtin methods 
+   Example:  count_character(character, string): 
+   assert 2 == count_character('e', 'Expedition') => passed
