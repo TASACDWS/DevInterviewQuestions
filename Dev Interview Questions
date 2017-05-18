@@ -5,3 +5,13 @@ Interview Questions
    Do not use Builtin methods 
    Example:  count_character(character, string): 
    assert 2 == count_character('e', 'Expedition') => passed
+
+2. What is an Interface?
+3. What is an abstract class?
+4. What an pure abstract class?
+5. Diferences between abstract class ans d Interface
+6. What is Polymorphism
+7. What is Inheritance
+8. What is a Virtual method
+9. What id method overloading
+10. Why do we use those whatevers !! ;|
